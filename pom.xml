@@ -23,14 +23,14 @@
 	</parent>
 
 	<scm>
-		<connection>scm:git:git@github.com:fernandospr/javapns-jdk16.git</connection>
-		<url>scm:git:git@github.com:fernandospr/javapns-jdk16.git</url>
-		<developerConnection>scm:git:git@github.com:fernandospr/javapns-jdk16.git</developerConnection>
+		<connection>scm:git:git@github.com:sushithbalu/javapns-jdk16.git</connection>
+		<url>scm:git:git@github.com:sushithbalu/javapns-jdk16.git</url>
+		<developerConnection>scm:git:git@github.com:sushithbalu/javapns-jdk16.git</developerConnection>
 	</scm>
 	<developers>
 		<developer>
-			<id>fernandospr</id>
-			<name>Fernando Sproviero</name>
+			<id>sushithbalu</id>
+			<name>Sushith Balu</name>
 		</developer>
 	</developers>
 	
